@@ -1,0 +1,60 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815054243@s.whatsapp.net',
+    fromMe: false,
+    id: '1F3C9714BBE901AB22BE6B531F89179C',
+    participant: undefined
+  },
+  messageTimestamp: 1677347067,
+  pushName: 'Marketing Digital',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Marketing Digital',
+  body: 'Hola',
+  from: '5493815054243'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815054243@s.whatsapp.net',
+    fromMe: false,
+    id: '6473E3EB272A876FDB61F5E4D16A7E65',
+    participant: undefined
+  },
+  messageTimestamp: 1677379453,
+  pushName: 'Marketing Digital',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Marketing Digital',
+  body: 'Hola',
+  from: '5493815054243'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815054243@s.whatsapp.net',
+    fromMe: false,
+    id: '5A93A6CD70D74DB35FD9AD4282165814',
+    participant: undefined
+  },
+  messageTimestamp: 1677379465,
+  pushName: 'Marketing Digital',
+  message: Message {
+    conversation: 'Hombre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Marketing Digital',
+  body: 'Hombre',
+  from: '5493815054243'
+}
